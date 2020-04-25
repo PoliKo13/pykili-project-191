@@ -1,8 +1,5 @@
 import os
 
-#os.rename('index.jpeg', 'cat.jpeg')
-
-
 path = 'memes/'
 time = {}
 newname = ['a', 'b', 'c', 'd', 'e', 'f']
